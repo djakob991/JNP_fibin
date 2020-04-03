@@ -1,7 +1,7 @@
 # JNP_fibin
 Zadanie z przedmiotu 'Języki i narzędzia programowania'
 
-Treść zadania:
+# Treść zadania:
 
 Metaprogramowanie przy użyciu szablonów C++ jest pełne w sensie Turinga.
 Aby się o tym przekonać, spróbujemy stworzyć prosty język funkcyjny i jego interpreter
